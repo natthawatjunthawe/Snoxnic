@@ -1,74 +1,9 @@
 {
   "p": [
-    {
-      "id": 101,
-      "usr": "SysAdmin",
-      "av": "./assets/a1.jpg",
-      "tm": "Just now",
-      "txt": "Core system upgraded. Offline mode is now strictly enforced.",
-      "img": "./assets/p1.jpg",
-      "lk": "15.2K",
-      "cm": "102",
-      "sh": "450"
-    },
-    {
-      "id": 102,
-      "usr": "DevOps_Zero",
-      "av": "./assets/a2.jpg",
-      "tm": "1 hr ago",
-      "txt": "Testing network resilience. If you see this, the cache layer works.",
-      "img": "",
-      "lk": "9.8K",
-      "cm": "55",
-      "sh": "12"
-    }
+    {"id":1, "usr":"Admin", "av":"", "tm":"Just now", "txt":"Welcome everyone! How's your day going? Let's share some vibes.", "img":"", "lk":"0", "cm":"0", "sh":"0"},
+    {"id":2, "usr":"User_01", "av":"", "tm":"5m ago", "txt":"Hello from the other side! Loving this new interface, so clean.", "img":"", "lk":"12", "cm":"2", "sh":"0"},
+    {"id":3, "usr":"Developer", "av":"", "tm":"10m ago", "txt":"Just pushed a fix for the loading screen. Everything should be stable now.", "img":"", "lk":"45", "cm":"10", "sh":"5"}
   ],
-  "v": [
-    {
-      "id": 201,
-      "usr": "motion_graphics",
-      "av": "./assets/a3.jpg",
-      "desc": "Fluid UI concept rendered in real-time.",
-      "src": "./assets/v1.mp4",
-      "lk": "120K",
-      "cm": "4.5K",
-      "sh": "1.1K"
-    },
-    {
-      "id": 202,
-      "usr": "backend_guru",
-      "av": "./assets/a4.jpg",
-      "desc": "Server room aesthetics.",
-      "src": "./assets/v2.mp4",
-      "lk": "45K",
-      "cm": "800",
-      "sh": "230"
-    },
-    {
-      "id": 203,
-      "usr": "frontend_ninja",
-      "av": "./assets/a1.jpg",
-      "desc": "Testing the new infinite scroll feature!",
-      "src": "./assets/v3.mp4",
-      "lk": "10K",
-      "cm": "200",
-      "sh": "50"
-    }
-  ],
-  "m": [
-    {
-      "id": 301,
-      "t": "Deep Focus",
-      "a": "Neural Net",
-      "cv": "./assets/c1.jpg",
-      "s": "./assets/m1.mp3"
-    },
-    {
-      "id": 302,
-      "t": "System Override",
-      "a": "Cyberpunk",
-      "cv": "./assets/c2.jpg",
-      "s": "./assets/m2.mp3"
-    }
-  ]
+  "v": [],
+  "m": []
 }
